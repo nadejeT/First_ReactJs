@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  display: block;
+}
+
+input::placeholder {
+  color: red;
+}
+
+.xo {
+  width: 200px;
+  height: 200px;
+  border: solid;
+  overflow: auto;
+}
